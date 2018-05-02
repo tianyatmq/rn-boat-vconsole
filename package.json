@@ -1,0 +1,26 @@
+{
+  "name": "rn-boat-vconsole",
+  "version": "0.0.5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rnboat",
+    "console",
+    "debugger",
+    "debugger console",
+    "log viewer"
+  ],
+  "dependencies": {
+    "debounce": "^1.0.0",
+    "json-stringify-safe": "^5.0.1",
+    "moment": "^2.11.2",
+    "react-native-invertible-scroll-view": "^1.0.0",
+    "stacktrace-parser": "^0.1.4"
+  },
+  "author": {
+    "name": "Castiel"
+  },
+  "license": "ISC"
+}
